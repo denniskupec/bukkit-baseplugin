@@ -1,0 +1,3 @@
+name: BasePlugin
+main: com.denniskupec.BukkitPlugin.Plugin
+version: 1
